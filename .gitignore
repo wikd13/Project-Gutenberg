@@ -1,0 +1,11 @@
+# Environments
+veni
+.env
+# Byte-compiled / optimized / DLL files
+__pycache__/
+**/migrations/**
+!**/migrations
+!**/migrations/__init__.py
+
+#Django stuff
+db.sqlite3
